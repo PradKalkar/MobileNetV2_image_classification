@@ -1,1 +1,1 @@
-# MobileNetV2_image_classification
+# Transfer Learning on MobileNetV2 for image classification (alpaca / not alpaca)
